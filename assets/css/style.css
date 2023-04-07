@@ -494,8 +494,8 @@ h6 {
 }
 
 #hero .carousel-indicators li.active {
-  opacity: 1;
-  background: #5cb874;
+  opacity: 0.2;
+  background: #c9ffd8;
 }
 
 #hero .btn-get-started {
